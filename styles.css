@@ -1,0 +1,35 @@
+.container{
+    background-color: #ccc;
+    height: 0 auto;
+}
+.container img{
+    height: 150px;
+    size: 30px;
+    width: 100px;
+}
+.info{
+    float: center;
+    text-align: center;
+
+}
+.container hr{
+
+    width: 600px;
+    height: 5px;
+    background-color: brown;
+    float: center;
+}
+
+.container h2{
+    text-align: center;
+    margin-top: 77px;
+    color: brown;
+}
+
+.container p{
+    text-align: center;
+    word-spacing: 20px;
+
+}
+
+ 
